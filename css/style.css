@@ -428,7 +428,7 @@ a.read_more2:hover {
 }
 
 a.contact_btn {
-    background: #fff;
+    background: #df0031;
     text-transform: uppercase;
     display: block;
     width: 176px;
@@ -436,7 +436,7 @@ a.contact_btn {
     text-align: center;
     line-height: 49px;
     font-size: 16px;
-    color: #df0031;
+    color: #fff;
     border-radius: 3px;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
@@ -447,8 +447,8 @@ a.contact_btn {
 }
 
 a.contact_btn:hover {
-    background: #df0031;
-    color: #fff;
+    background: #fff;
+    color: #df0031;
 }
 
 .input-text {
